@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					52DC4FBC1E80C6DA0098931A = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 2247FK2V42;
 						ProvisioningStyle = Automatic;
 					};
 					52DC4FD51E80C6DA0098931A = {
@@ -422,6 +423,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2247FK2V42;
 				INFOPLIST_FILE = TestJenkins/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cardvalue.TestJenkins;
@@ -433,6 +435,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2247FK2V42;
 				INFOPLIST_FILE = TestJenkins/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cardvalue.TestJenkins;
@@ -505,6 +508,7 @@
 				52DC4FEC1E80C6DA0098931A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		52DC4FED1E80C6DA0098931A /* Build configuration list for PBXNativeTarget "TestJenkinsTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +517,7 @@
 				52DC4FEF1E80C6DA0098931A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		52DC4FF01E80C6DA0098931A /* Build configuration list for PBXNativeTarget "TestJenkinsUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +526,7 @@
 				52DC4FF21E80C6DA0098931A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
